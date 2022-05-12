@@ -189,3 +189,8 @@ source_metadata:
   - http://purl.bdrc.io/resource/MW1KG4326
 created_at: '2021-12-24T17:24:28.718553'
 last_modified_at: '2021-12-24T17:24:28.718567'
+statistics:
+  total_words: 211086
+  total_non_words: 31849
+quality:
+  non_words_ratio: 0.15
